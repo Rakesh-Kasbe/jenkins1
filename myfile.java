@@ -1,5 +1,9 @@
-class Simple{  
-    public static void main(String args[]){  
-     System.out.println("Welcome To My Project");  
+    class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello Java");  
+        }  
     }  
-} 
+
+
+
+
